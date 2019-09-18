@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1080799556400",
+    "firebase_url": "https://signaltracker-67059.firebaseio.com",
+    "project_id": "signaltracker-67059",
+    "storage_bucket": "signaltracker-67059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080799556400:android:e158c5fc18dee683",
+        "android_client_info": {
+          "package_name": "com.stechnologies.signaltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080799556400-k2bbj3fcmtvp5kcvddi04f2hcqoe6q50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stechnologies.signaltracker",
+            "certificate_hash": "723437ac715a5cf812dabd51a2bac86613231d02"
+          }
+        },
+        {
+          "client_id": "1080799556400-5ri0j43v6sv9im8q56q0s2gt4409pecf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5A4w-g77ROxbc7x9eSyVsXQ26dgGHfIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080799556400-5ri0j43v6sv9im8q56q0s2gt4409pecf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
